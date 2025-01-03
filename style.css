@@ -856,22 +856,18 @@ footer.section-p1 .copyright {
     white-space: nowrap;
   }
   
-  #cart table img {
-    width: 70px;
-  }
-  
   #cart table td:nth-child(1) {
     width: 100px;
     text-align: center;
   }
   
   #cart table td:nth-child(2) {
-    width: 150px;
+    width: 350px;
     text-align: center;
   }
   
   #cart table td:nth-child(3) {
-    width: 250px;
+    width: 150px;
     text-align: center;
   }
   
@@ -1107,3 +1103,7 @@ footer.section-p1 .copyright {
     background-size: 120%; 
 }
 /* End */
+
+/* 
+cart.home */
+
